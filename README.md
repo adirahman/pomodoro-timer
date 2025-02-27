@@ -1,4 +1,6 @@
 # Pomodoro Timer
 Offline Pomodoro Timer using Swift UI
 Hope this Pomodoro works for you
-![Uploading VID-20250226-WA0004-ezgif.com-resize.gif…]()
+
+https://github.com/user-attachments/assets/e1e8cde8-f969-41c0-a771-08c5cf6a7340
+
